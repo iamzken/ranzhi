@@ -1,0 +1,5 @@
+.page-content.with-menu{margin: 0 0 0 160px;}
+.group-item .checkbox{display: inline-block;}
+.group-item .checkbox input{margin: 2px 0 0 -16px;}
+.leftmenu > .nav > li > a{padding: 0 15px;}
+.input-group-addon label.checkbox{margin: 0; padding-top: 3px;} 
